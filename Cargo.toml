@@ -5,5 +5,5 @@ edition = "2021"
 
 [dependencies]
 csv = "1.1.6"
-git2 = "0.13.25"
+git2 = "0.16.1"
 pcre = "0.2.3"
